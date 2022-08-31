@@ -40,7 +40,12 @@ h1 {
     font-weight: bold;
 }
 
-.dropdown-menu .active {
+.dropdown .dropdown-menu .active {
+    background-color: #2574a9;
+    color: #fff;
+}
+
+.dropdown .dropdown-menu a:active {
     background-color: #2574a9;
     color: #fff;
 }
