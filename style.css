@@ -36,6 +36,11 @@ h1 {
     color: #2574a9;
 }
 
+.navbar-nav .active {
+    font-weight: bold;
+    color: #2574a9;
+}
+
 .navbar-nav .active .nav-link {
     font-weight: bold;
     color: #2574a9;
