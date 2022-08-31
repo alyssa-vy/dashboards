@@ -40,6 +40,11 @@ h1 {
     font-weight: bold;
 }
 
+.dropdown-menu .active {
+    background-color: #2574a9;
+    color: #fff;
+}
+
 .btn {
     border-radius: 50%;
     color: #2574a9;
